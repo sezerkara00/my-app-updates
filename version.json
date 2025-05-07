@@ -30,5 +30,13 @@
   "series3"
   ],
   "download_url": "https://raw.githubusercontent.com/sezerkara00/my-app-updates/main/C2P_SCREEN_1.2.8.zip"
+  },
+  {
+  "version": "1.2.9",
+  "versions_active": [
+  "series4",
+  "series2"
+  ],
+  "download_url": "https://raw.githubusercontent.com/sezerkara00/my-app-updates/main/C2P_SCREEN_1.2.9.zip"
   }
 ]
